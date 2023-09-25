@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+FROM movies 
+WHERE year = 1982
